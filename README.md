@@ -9,6 +9,9 @@ This is a IDE which supports coding in C++ and python as of now. It uses GFG API
 5) Responsive IDE
 6) React concepts are used while building this IDE
 
+## UI Image
+![ashish-ide-ui](https://github.com/ashishsv029/React-IDE/blob/master/IDE-UI/ideui1.jpeg)
+
 
 ## How to run
  1) type npm install (in command prompt)
